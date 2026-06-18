@@ -1,2 +1,3 @@
-# Employee-Payroll-Database
-A MySQL database project used to manage employee details, salaries, departments, and payroll records. It helps store and organize payroll information efficiently using relational database concepts.
+# Intern ID : CITS4511
+
+Employee Payroll Database is a MySQL-based project designed to manage employee details, salary information, and payroll records efficiently. It uses relational database concepts to store and organize payroll data.
